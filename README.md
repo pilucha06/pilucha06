@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello!
+I'm a software engineer student, currently in my 3rd year.
+I am learning how to write scripts and systems that help me understand and improve as a student!
+If I come across a very interesting algorithm, chances are I will most likely want to try and do it myself so I can fully grasp it.
+Programming languages im familiar and used to work in: Pyhton, C and Bash
 
 <!--
 **pilucha06/pilucha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
