@@ -2,7 +2,7 @@ Hello!
 
 I'm a software engineer student, currently in my 3rd year.
 
-I am learning how to write scripts and systems that help me understand and improve as a student!
+I am learning how to write scripts and systems that help me learn and improve as a student!
 
 If I come across a very interesting algorithm, chances are I will most likely want to try and do it myself so I can fully grasp it.
 
